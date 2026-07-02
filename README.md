@@ -29,14 +29,14 @@ The **Contactless Gesture-Controlled Robotic Gripper** is a hardware-agnostic co
 | **Hardware** | MG995 & SG90 Servos |
 
 ---
-
+  
 ## ⚙️ Setup Instructions
 
 ### 1. Prerequisites
 Ensure you have Python installed, then install the dependencies:
 ```bash
 pip install opencv-python mediapipe websockets numpy
-
+---
 ### 2. Running the Control Server
 Navigate to the /src directory.
 Locate mainserver.py and open it in any text editor.
