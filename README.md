@@ -1,1 +1,0 @@
-# contactless-robotic-gripper
