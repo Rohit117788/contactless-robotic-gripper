@@ -221,8 +221,6 @@ Contactless-Robotic-Gripper/
 
 **Rohit Ahirwar**
 
-Electronics & Telecommunication Engineering  
-Madhav Institute of Technology & Science (MITS), Gwalior
 
 ---
 
