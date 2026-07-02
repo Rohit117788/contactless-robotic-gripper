@@ -6,15 +6,10 @@ A **professional-grade, AI-driven robotic teleoperation system** that enables **
 
 ## 📸 Project Prototype
 
-> ## 📸 Project Prototype
 
 <p align="center">
   <img src="assets/prototypeimage.jpeg" alt="Contactless Gesture-Controlled Robotic Gripper" width="700">
 </p>
-
-```markdown
-![Prototype](images/prototype.png)
-```
 
 ---
 
