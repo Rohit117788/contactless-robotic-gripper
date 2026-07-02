@@ -44,7 +44,7 @@ Find the SERVER_IP variable and update it to your computer's local IP address (y
 Start the server:
 python src/mainserver.py
 
-### 3. Firmware Upload (ESP32 Side)
+## 3. Firmware Upload (ESP32 Side)
 Open the Arduino IDE.
 Open the file firmware/esp32_mainserver/esp32_mainserver.ino.
 In the code, locate the ssid and password variables and enter your Wi-Fi credentials.
@@ -52,7 +52,7 @@ Locate the server_ip variable in the Arduino code and set it to match the IP add
 Select your ESP32 board and port in Tools > Board and Tools > Port.
 Click Upload.
 
-### 4. System Start-up Sequence
+## 4. System Start-up Sequence
 
 Power on the ESP32 (it will automatically connect to your Wi-Fi).
 Launch the mainserver.py script on your laptop.
