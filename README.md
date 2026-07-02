@@ -185,8 +185,11 @@ Connection Established
 
 # 📂 Project Structure
 
-```
+```text
 Contactless-Robotic-Gripper/
+│
+├── assets/
+│   └── prototypeimage.jpeg
 │
 ├── firmware/
 │   └── esp32_mainserver/
@@ -196,12 +199,12 @@ Contactless-Robotic-Gripper/
 │   ├── mainserver.py
 │   └── hand_tracking.py
 │
-├── images/
-│   └── prototype.png
-│
 ├── README.md
 └── requirements.txt
 ```
+
+---
+
 
 ---
 
