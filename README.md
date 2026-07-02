@@ -196,8 +196,8 @@ Contactless-Robotic-Gripper/
 │       └── esp32_mainserver.ino
 │
 ├── src/
-│   ├── mainserver.py
-│   └── hand_tracking.py
+│   └── mainserver.py
+│   
 │
 ├── README.md
 └── requirements.txt
